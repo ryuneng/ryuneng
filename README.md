@@ -35,12 +35,15 @@
 <br><br>
 
 ### 🔗 Links
-> 🧑🏻‍💻 <b>Portfolio</b> <a target="_blank">[https://ryuneng.notion.site](https://ryuneng.notion.site/3e5b30ab55d44237a75ad3b9d88fbb65?pvs=4)</a><br>
+> 
   📧 <b>Email</b> <a target="_blank" href="mailto:ryuneng2@gmail.com">ryuneng2@gmail.com</a><br>
   📝 <b>blog</b> <a target="_blank">https://velog.io/@ryuneng2</a>
 
 
 <!--
+  0. 포트폴리오 링크
+  🧑🏻‍💻 <b>Portfolio</b> <a target="_blank">[https://ryuneng.notion.site](https://ryuneng.notion.site/3e5b30ab55d44237a75ad3b9d88fbb65?pvs=4)</a><br>
+
   1. 기술스택 뱃지 이미지
     - 사이트
       https://simpleicons.org/?q=openjdk
