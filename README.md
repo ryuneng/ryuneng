@@ -1,4 +1,4 @@
-## Hi, I'm Ribichna Yu 😊
+# Hi, I'm Ribichna Yu 😊
 <a target="_blank" href="mailto:ryuneng2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a target="_blank" href="https://velog.io/@ryuneng2"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
@@ -37,8 +37,6 @@
     <img src="https://render.gitanimals.org/farms/ryuneng"/>
   </a>
 </div>
-
-<br>
 
 <!--
    기술스택 뱃지 이미지
